@@ -1,3 +1,3 @@
 # Vue Slider Component
 
-Basic slider that "slides" through images when it has to an element further than one slide from the current position.
+A simple image slider that transitions through all intermediate images when switching to a slide further away.
